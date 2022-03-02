@@ -104,15 +104,3 @@ TODO
 ====
  - Cucumber support
  - Test::Unit / Minitest support
-
-Authors
-=======
-
-### [Contributors](https://github.com/grosser/parallel_split_test/contributors)
- - [bootstraponline](https://github.com/bootstraponline)
- - [ModST](https://github.com/ModST)
-
-[Michael Grosser](http://grosser.it)<br/>
-michael@grosser.it<br/>
-License: MIT<br/>
-[![Build Status](https://travis-ci.org/grosser/parallel_split_test.png)](https://travis-ci.org/grosser/parallel_split_test)
